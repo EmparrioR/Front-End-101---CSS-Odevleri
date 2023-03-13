@@ -1,0 +1,17 @@
+.Baslik{
+    color: red;
+}
+
+.ul
+{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.about_us_header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
